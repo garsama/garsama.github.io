@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'NanumBarunpen';
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenR.eot);
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenR.eot?#iefix) format("embedded-opentype"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenR.woff) format("woff"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenR.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: 'NanumBarunpenB';
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenB.eot);
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenB.eot?#iefix) format("embedded-opentype"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenB.woff) format("woff"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunpen/NanumBarunpenB.ttf) format("truetype");
+}
